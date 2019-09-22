@@ -1,0 +1,33 @@
+.container{
+    width: 1024px;
+    margin: auto;
+    color: white;
+    font-family: Oswald,Tahoma;
+    font-size: 20px;
+    background-color: green;
+    overflow: hidden;
+    }
+ header, ul, footer{
+   text-align: center;
+   background-color: DarkGray;
+ }
+ header, main,{
+   width: 95%;
+   margin: auto;
+ }
+header{
+  height: 50px;
+}
+h1{
+  font-size: 40px;
+}
+main{
+  height: 700px;
+  margin: auto;
+  text-align: center;
+}
+footer{
+  display: grid;
+  text-align: center;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
