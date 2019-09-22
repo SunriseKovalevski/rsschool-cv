@@ -7,11 +7,11 @@
     background-color: green;
     overflow: hidden;
     }
- header, ul, footer{
+header, ul, footer{
    text-align: center;
    background-color: DarkGray;
  }
- header, main,{
+header, main,{
    width: 95%;
    margin: auto;
  }
